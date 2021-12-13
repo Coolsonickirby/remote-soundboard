@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en">
+    <text name="greeting_ARL_00" id="49607562">
+      This should be fun!
+    </text>
+    <text name="greeting_ARL_01" id="49607563">
+      Let's go!
+    </text>
+    <text name="greeting_ARL_02" id="49607564">
+      Can we start?
+    </text>
+    <text name="greeting_ARL_03" id="49607565">
+      Gugugu gugu!
+    </text>
+    <text name="greeting_ARL_04" id="49607566">
+      After this, I'm getting curry!
+    </text>
+    <text name="greeting_DRA_00" id="357935762">
+      Yahoo!
+    </text>
+    <text name="greeting_DRA_01" id="357935763">
+      It's go time! RAWR!
+    </text>
+    <text name="greeting_DRA_02" id="357935764">
+      Ha! I won't lose.
+    </text>
+    <text name="greeting_DRA_03" id="357935765">
+      You don't stand a chance. Sorry!
+    </text>
+    <text name="greeting_DRA_04" id="357935766">
+      I'm number one!
+    </text>
+    <text name="greeting_basic_00" id="922923735">
+      Nice to meet you!
+    </text>
+    <text name="greeting_basic_01" id="922923736">
+      Are you ready?
+    </text>
+    <text name="greeting_basic_02" id="922923737">
+      Let's battle!
+    </text>
+    <text name="greeting_basic_03" id="922923738">
+      Looking forward to this match!
+    </text>
+    <text name="greeting_basic_04" id="922923739">
+      Hold on! Just one sec!
+    </text>
+    <text name="greeting_basic_05" id="922923740">
+      OK!
+    </text>
+    <text name="greeting_basic_06" id="922923741">
+      This should be fun.
+    </text>
+    <text name="greeting_basic_07" id="922923742">
+      Let's be friends!
+    </text>
+    <text name="greeting_basic_08" id="922923743">
+      Please go easy on me...
+    </text>
+    <text name="greeting_basic_09" id="922923744">
+      Just one more!
+    </text>
+    <text name="greeting_basic_10" id="922923862">
+      Thanks for joining!
+    </text>
+    <text name="greeting_basic_11" id="922923863">
+      I'll swap characters.
+    </text>
+    <text name="greeting_basic_12" id="922923864">
+      I'm sorry...
+    </text>
+    <text name="greeting_basic_13" id="922923865">
+      Let's start!
+    </text>
+    <text name="greeting_basic_14" id="922923866">
+      Let's play again! ...If you can.
+    </text>
+    <text name="greeting_RIS_00" id="1029175913">
+      Why, hello there.
+    </text>
+    <text name="greeting_RIS_01" id="1029175914">
+      How exciting!
+    </text>
+    <text name="greeting_RIS_02" id="1029175915">
+      Looking forward to battle!
+    </text>
+    <text name="greeting_RIS_03" id="1029175916">
+      Let's experiment!
+    </text>
+    <text name="greeting_RIS_04" id="1029175917">
+      I predict a thrilling match ahead.
+    </text>
+    <text name="greeting_MAR_00" id="1257847911">
+      Let's make this battle fun. ♪
+    </text>
+    <text name="greeting_MAR_01" id="1257847912">
+      I'm ready when you are. ♪
+    </text>
+    <text name="greeting_MAR_02" id="1257847913">
+      *sigh* I can't wait. ♪
+    </text>
+    <text name="greeting_MAR_03" id="1257847914">
+      What could be more fun than battling? ♪
+    </text>
+    <text name="greeting_MAR_04" id="1257847915">
+      This is so exciting... ♪
+    </text>
+    <text name="greeting_WCH_00" id="1428865641">
+      Yes, you~!
+    </text>
+    <text name="greeting_WCH_01" id="1428865642">
+      Ready if you are!
+    </text>
+    <text name="greeting_WCH_02" id="1428865643">
+      Who wants to play with me?
+    </text>
+    <text name="greeting_WCH_03" id="1428865644">
+      Victory is all mine!
+    </text>
+    <text name="greeting_WCH_04" id="1428865645">
+      Eehee-hahahaha!
+    </text>
+    <text name="greeting_CAR_00" id="1586635633">
+      Guguggu~♪
+    </text>
+    <text name="greeting_CAR_01" id="1586635634">
+      Gugu gu!
+    </text>
+    <text name="greeting_CAR_02" id="1586635635">
+      Gu gugu!
+    </text>
+    <text name="greeting_CAR_03" id="1586635636">
+      Guguggu~gu! Guguguguggu♪
+    </text>
+    <text name="greeting_CAR_04" id="1586635637">
+      Gugugu!?
+    </text>
+    <text name="greeting_SQA_00" id="1752093186">
+      Order will prevail.
+    </text>
+    <text name="greeting_SQA_01" id="1752093187">
+      Well, what are you waiting for?
+    </text>
+    <text name="greeting_SQA_02" id="1752093188">
+      No one stands a chance against me.
+    </text>
+    <text name="greeting_SQA_03" id="1752093189">
+      The world must be made right...
+    </text>
+    <text name="greeting_SQA_04" id="1752093190">
+      You want to battle, right?
+    </text>
+    <text name="greeting_SAT_00" id="1923665503">
+      You made up your mind?
+    </text>
+    <text name="greeting_SAT_01" id="1923665504">
+      Hmph. I don't hold back.
+    </text>
+    <text name="greeting_SAT_02" id="1923665505">
+      You want to fight?
+    </text>
+    <text name="greeting_SAT_03" id="1923665506">
+      Where's my sweet Carbunny?
+    </text>
+    <text name="greeting_SAT_04" id="1923665507">
+      Showtime!
+    </text>
+    <text name="tab_basic" id="2069273220">
+      1
+    </text>
+    <text name="greeting_I_00" id="2188711548">
+      A long-awaited match.
+    </text>
+    <text name="greeting_I_01" id="2188711549">
+      Shall we begin?
+    </text>
+    <text name="greeting_I_02" id="2188711550">
+      Are you primed?
+    </text>
+    <text name="greeting_I_03" id="2188711551">
+      Do you take me for a mere pup?
+    </text>
+    <text name="greeting_I_04" id="2188711552">
+      YIP! YIP! YIP!
+    </text>
+    <text name="greeting_O_00" id="2201001846">
+      Pipipi!
+    </text>
+    <text name="greeting_O_01" id="2201001847">
+      Pipipi!
+    </text>
+    <text name="greeting_O_02" id="2201001848">
+      Pipi!
+    </text>
+    <text name="greeting_O_03" id="2201001849">
+      Pipipipipii!
+    </text>
+    <text name="greeting_O_04" id="2201001850">
+      Piiipi♪ Piiipi♪
+    </text>
+    <text name="greeting_S_00" id="2209195378">
+      We ready now?
+    </text>
+    <text name="greeting_S_01" id="2209195379">
+      You ready for a real challenge?
+    </text>
+    <text name="greeting_S_02" id="2209195380">
+      Hey, let's start!
+    </text>
+    <text name="greeting_S_03" id="2209195381">
+      Did you call for me, the amazing Ess?
+    </text>
+    <text name="greeting_S_04" id="2209195382">
+      You're no match for this cute face! ♪
+    </text>
+    <text name="greeting_T_00" id="2211243761">
+      How's it going?
+    </text>
+    <text name="greeting_T_01" id="2211243762">
+      I accept your challenge!
+    </text>
+    <text name="greeting_T_02" id="2211243763">
+      It's launch time!
+    </text>
+    <text name="greeting_T_03" id="2211243764">
+      Let's make this a fun battle!
+    </text>
+    <text name="greeting_T_04" id="2211243765">
+      It's good to be the king!
+    </text>
+    <text name="greeting_X_00" id="2219437293">
+      You ready yet?
+    </text>
+    <text name="greeting_X_01" id="2219437294">
+      I can't wait.
+    </text>
+    <text name="greeting_X_02" id="2219437295">
+      I've always wanted to face you.
+    </text>
+    <text name="greeting_X_03" id="2219437296">
+      Sorry. I'm just that strong.
+    </text>
+    <text name="greeting_X_04" id="2219437297">
+      I've waited so long...
+    </text>
+    <text name="greeting_Z_00" id="2223534059">
+      Preparations complete.
+    </text>
+    <text name="greeting_Z_01" id="2223534060">
+      Enemy within range.
+    </text>
+    <text name="greeting_Z_02" id="2223534061">
+      Battle mode: ENGAGE
+    </text>
+    <text name="greeting_Z_03" id="2223534062">
+      Are you prepared?
+    </text>
+    <text name="greeting_Z_04" id="2223534063">
+      Remember to stay hydrated.
+    </text>
+    <text name="greeting_RNG_00" id="2305318522">
+      Looking forward to this match!
+    </text>
+    <text name="greeting_RNG_01" id="2305318523">
+      Let's do this! Sound good?
+    </text>
+    <text name="greeting_RNG_02" id="2305318524">
+      I'm in this to win!
+    </text>
+    <text name="greeting_RNG_03" id="2305318525">
+      I'm a problem-solver.
+    </text>
+    <text name="greeting_RNG_04" id="2305318526">
+      Sine! Cosine! Tangent!
+    </text>
+    <text name="greeting_KLU_00" id="2473354737">
+      If you insist on losing...
+    </text>
+    <text name="greeting_KLU_01" id="2473354738">
+      I won't go easy on you.
+    </text>
+    <text name="greeting_KLU_02" id="2473354739">
+      You choose your opponents well.
+    </text>
+    <text name="greeting_KLU_03" id="2473354740">
+      One day, I'll be stronger.
+    </text>
+    <text name="greeting_KLU_04" id="2473354741">
+      *maniacal chuckle*
+    </text>
+    <text name="greeting_ALL_00" id="2783707012">
+      Let's show each other some love!
+    </text>
+    <text name="greeting_ALL_01" id="2783707013">
+      Pleased to meet you!
+    </text>
+    <text name="greeting_ALL_02" id="2783707014">
+      Well, let's get started!
+    </text>
+    <text name="greeting_ALL_03" id="2783707015">
+      I can sense the love!
+    </text>
+    <text name="greeting_ALL_04" id="2783707016">
+      Battle with your heart! Battle with love!
+    </text>
+    <text name="greeting_SUK_00" id="2813155580">
+      Who's ready to get down!
+    </text>
+    <text name="greeting_SUK_01" id="2813155581">
+      Promise you won't fall in love with me.
+    </text>
+    <text name="greeting_SUK_02" id="2813155582">
+      Let's get groooovy!
+    </text>
+    <text name="greeting_SUK_03" id="2813155583">
+      LET'S DANCE!
+    </text>
+    <text name="greeting_SUK_04" id="2813155584">
+      Catch of the day!
+    </text>
+    <text name="greeting_MGR_00" id="2818715757">
+      I'm excited! ♪
+    </text>
+    <text name="greeting_MGR_01" id="2818715758">
+      Ready to have some fun?
+    </text>
+    <text name="greeting_MGR_02" id="2818715759">
+      Are ya ready? ★
+    </text>
+    <text name="greeting_MGR_03" id="2818715760">
+      Wow! ★
+    </text>
+    <text name="greeting_MGR_04" id="2818715761">
+      Sparkle! ★
+    </text>
+    <text name="greeting_FEL_00" id="2945784312">
+      I foresee my victory...
+    </text>
+    <text name="greeting_FEL_01" id="2945784313">
+      So you want to fight me...?
+    </text>
+    <text name="greeting_FEL_02" id="2945784314">
+      Let's go. Now.
+    </text>
+    <text name="greeting_FEL_03" id="2945784315">
+      You like to tempt fate, huh?
+    </text>
+    <text name="greeting_FEL_04" id="2945784316">
+      Hyaaaaaah~!
+    </text>
+    <text name="greeting_AMI_00" id="3037706504">
+      Been waiting for this!
+    </text>
+    <text name="greeting_AMI_01" id="3037706505">
+      I'm all ready to go!
+    </text>
+    <text name="greeting_AMI_02" id="3037706506">
+      Let's start, alright?
+    </text>
+    <text name="greeting_AMI_03" id="3037706507">
+      I'm so excited. This is awesome!
+    </text>
+    <text name="greeting_AMI_04" id="3037706508">
+      I'm so pumped! 100% perfecto!
+    </text>
+    <text name="greeting_RAF_00" id="3216357102">
+      Let us begin!
+    </text>
+    <text name="greeting_RAF_01" id="3216357103">
+      And now you face... me!
+    </text>
+    <text name="greeting_RAF_02" id="3216357104">
+      I hope you're ready for me!
+    </text>
+    <text name="greeting_RAF_03" id="3216357105">
+      A proper lady trains hard.
+    </text>
+    <text name="greeting_RAF_04" id="3216357106">
+      *giggle*
+    </text>
+    <text name="greeting_LEM_00" id="3609553521">
+      Hey there! Nice to meet you.
+    </text>
+    <text name="greeting_LEM_01" id="3609553522">
+      Let's do it.
+    </text>
+    <text name="greeting_LEM_02" id="3609553523">
+      Come n' get it.
+    </text>
+    <text name="greeting_LEM_03" id="3609553524">
+      Want somethin' sweet, eh?
+    </text>
+    <text name="greeting_LEM_04" id="3609553525">
+      Don't be afraid now...
+    </text>
+    <text name="tab_No01" id="3695593484">
+      Page 1
+    </text>
+    <text name="tab_No02" id="3695593485">
+      Page 2
+    </text>
+    <text name="tab_No03" id="3695593486">
+      Page 3
+    </text>
+    <text name="tab_No04" id="3695593487">
+      Page 4
+    </text>
+    <text name="tab_No05" id="3695593488">
+      Page 5
+    </text>
+    <text name="tab_No06" id="3695593489">
+      Page 6
+    </text>
+    <text name="tab_No07" id="3695593490">
+      Page 7
+    </text>
+    <text name="tab_No08" id="3695593491">
+      Page 8
+    </text>
+    <text name="tab_No09" id="3695593492">
+      Page 9
+    </text>
+    <text name="tab_No10" id="3695593610">
+      Page 10
+    </text>
+    <text name="tab_No11" id="3695593611">
+      Page 11
+    </text>
+    <text name="tab_No12" id="3695593612">
+      Page 12
+    </text>
+    <text name="tab_No13" id="3695593613">
+      Page 13
+    </text>
+    <text name="tab_No14" id="3695593614">
+      Page 14
+    </text>
+    <text name="tab_No15" id="3695593615">
+      Page 15
+    </text>
+    <text name="greeting_ECO_00" id="3753009140">
+      I can't wait!
+    </text>
+    <text name="greeting_ECO_01" id="3753009141">
+      Hahaha! Greetings!
+    </text>
+    <text name="greeting_ECO_02" id="3753009142">
+      Let's play!
+    </text>
+    <text name="greeting_ECO_03" id="3753009143">
+      The fun is about to start!
+    </text>
+    <text name="greeting_ECO_04" id="3753009144">
+      So, what do you wanna do?
+    </text>
+    <text name="greeting_SHZ_00" id="3756968288">
+      Time to fight!
+    </text>
+    <text name="greeting_SHZ_01" id="3756968289">
+      I won't hold back!
+    </text>
+    <text name="greeting_SHZ_02" id="3756968290">
+      Behold my dark magic!
+    </text>
+    <text name="greeting_SHZ_03" id="3756968291">
+      I am NOT a creeper!
+    </text>
+    <text name="greeting_SHZ_04" id="3756968292">
+      Feel the terror of my dark blade!
+    </text>
+    <text name="greeting_LJ_00" id="3826635643">
+      Nice to meet you!
+    </text>
+    <text name="greeting_LJ_01" id="3826635644">
+      YAY! Can we start now?
+    </text>
+    <text name="greeting_LJ_02" id="3826635645">
+      This is exciting!
+    </text>
+    <text name="greeting_LJ_03" id="3826635646">
+      Hey, do you like pranks...?
+    </text>
+    <text name="greeting_LJ_04" id="3826635647">
+      Together, we're the best there is!
+    </text>
+    <text name="tab_history" id="3887765002">
+      History
+    </text>
+    <text name="greeting_SIG_00" id="3978193652">
+      Um... Huh?
+    </text>
+    <text name="greeting_SIG_01" id="3978193653">
+      Showtime.
+    </text>
+    <text name="greeting_SIG_02" id="3978193654">
+      We starting soon?
+    </text>
+    <text name="greeting_SIG_03" id="3978193655">
+      I guess we're battling now.
+    </text>
+    <text name="greeting_SIG_04" id="3978193656">
+      Seen any rare bugs lately?
+    </text>
+    <text name="greeting_RUL_00" id="4136572924">
+      Are you all set?
+    </text>
+    <text name="greeting_RUL_01" id="4136572925">
+      I think this will be fun...
+    </text>
+    <text name="greeting_RUL_02" id="4136572926">
+      Bring it on.
+    </text>
+    <text name="greeting_RUL_03" id="4136572927">
+      Oh dear, you sure about this?
+    </text>
+    <text name="greeting_RUL_04" id="4136572928">
+      The Dark Prince is all mine!
+    </text>
+  </sheet>
+</cnvrsText>

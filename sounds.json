@@ -1,0 +1,783 @@
+{
+    "sounds": [{
+            "sound": "./sounds/greeting_ARL_00.wav",
+            "image": "./images/greeting_ARL_00.png",
+            "text": "This should be fun!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ARL_01.wav",
+            "image": "./images/greeting_ARL_01.png",
+            "text": "Let's go!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ARL_02.wav",
+            "image": "./images/greeting_ARL_02.png",
+            "text": "Can we start?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ARL_03.wav",
+            "image": "./images/greeting_ARL_03.png",
+            "text": "Gugugu gugu!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ARL_04.wav",
+            "image": "./images/greeting_ARL_04.png",
+            "text": "After this, I'm getting curry!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_DRA_00.wav",
+            "image": "./images/greeting_DRA_00.png",
+            "text": "Yahoo!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_DRA_01.wav",
+            "image": "./images/greeting_DRA_01.png",
+            "text": "It's go time! RAWR!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_DRA_02.wav",
+            "image": "./images/greeting_DRA_02.png",
+            "text": "Ha! I won't lose.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_DRA_03.wav",
+            "image": "./images/greeting_DRA_03.png",
+            "text": "You don't stand a chance. Sorry!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_DRA_04.wav",
+            "image": "./images/greeting_DRA_04.png",
+            "text": "I'm number one!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RIS_00.wav",
+            "image": "./images/greeting_RIS_00.png",
+            "text": "Why, hello there.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RIS_01.wav",
+            "image": "./images/greeting_RIS_01.png",
+            "text": "How exciting!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RIS_02.wav",
+            "image": "./images/greeting_RIS_02.png",
+            "text": "Looking forward to battle!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RIS_03.wav",
+            "image": "./images/greeting_RIS_03.png",
+            "text": "Let's experiment!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RIS_04.wav",
+            "image": "./images/greeting_RIS_04.png",
+            "text": "I predict a thrilling match ahead.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_MAR_00.wav",
+            "image": "./images/greeting_MAR_00.png",
+            "text": "Let's make this battle fun. \u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_MAR_01.wav",
+            "image": "./images/greeting_MAR_01.png",
+            "text": "I'm ready when you are. \u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_MAR_02.wav",
+            "image": "./images/greeting_MAR_02.png",
+            "text": "*sigh* I can't wait. \u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_MAR_03.wav",
+            "image": "./images/greeting_MAR_03.png",
+            "text": "What could be more fun than battling? \u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_MAR_04.wav",
+            "image": "./images/greeting_MAR_04.png",
+            "text": "This is so exciting... \u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_WCH_00.wav",
+            "image": "./images/greeting_WCH_00.png",
+            "text": "Yes, you~!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_WCH_01.wav",
+            "image": "./images/greeting_WCH_01.png",
+            "text": "Ready if you are!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_WCH_02.wav",
+            "image": "./images/greeting_WCH_02.png",
+            "text": "Who wants to play with me?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_WCH_03.wav",
+            "image": "./images/greeting_WCH_03.png",
+            "text": "Victory is all mine!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_WCH_04.wav",
+            "image": "./images/greeting_WCH_04.png",
+            "text": "Eehee-hahahaha!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_CAR_00.wav",
+            "image": "./images/greeting_CAR_00.png",
+            "text": "Guguggu~\u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_CAR_01.wav",
+            "image": "./images/greeting_CAR_01.png",
+            "text": "Gugu gu!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_CAR_02.wav",
+            "image": "./images/greeting_CAR_02.png",
+            "text": "Gu gugu!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_CAR_03.wav",
+            "image": "./images/greeting_CAR_03.png",
+            "text": "Guguggu~gu! Guguguguggu\u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_CAR_04.wav",
+            "image": "./images/greeting_CAR_04.png",
+            "text": "Gugugu!?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SAT_00.wav",
+            "image": "./images/greeting_SAT_00.png",
+            "text": "You made up your mind?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SAT_01.wav",
+            "image": "./images/greeting_SAT_01.png",
+            "text": "Hmph. I don't hold back.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SAT_02.wav",
+            "image": "./images/greeting_SAT_02.png",
+            "text": "You want to fight?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SAT_03.wav",
+            "image": "./images/greeting_SAT_03.png",
+            "text": "Where's my sweet Carbunny?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SAT_04.wav",
+            "image": "./images/greeting_SAT_04.png",
+            "text": "Showtime!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_I_00.wav",
+            "image": "./images/greeting_I_00.png",
+            "text": "A long-awaited match.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_I_01.wav",
+            "image": "./images/greeting_I_01.png",
+            "text": "Shall we begin?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_I_02.wav",
+            "image": "./images/greeting_I_02.png",
+            "text": "Are you primed?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_I_03.wav",
+            "image": "./images/greeting_I_03.png",
+            "text": "Do you take me for a mere pup?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_I_04.wav",
+            "image": "./images/greeting_I_04.png",
+            "text": "YIP! YIP! YIP!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_O_00.wav",
+            "image": "./images/greeting_O_00.png",
+            "text": "Pipipi!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_O_01.wav",
+            "image": "./images/greeting_O_01.png",
+            "text": "Pipipi!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_O_02.wav",
+            "image": "./images/greeting_O_02.png",
+            "text": "Pipi!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_O_03.wav",
+            "image": "./images/greeting_O_03.png",
+            "text": "Pipipipipii!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_O_04.wav",
+            "image": "./images/greeting_O_04.png",
+            "text": "Piiipi\u266a Piiipi\u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_S_00.wav",
+            "image": "./images/greeting_S_00.png",
+            "text": "We ready now?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_S_01.wav",
+            "image": "./images/greeting_S_01.png",
+            "text": "You ready for a real challenge?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_S_02.wav",
+            "image": "./images/greeting_S_02.png",
+            "text": "Hey, let's start!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_S_03.wav",
+            "image": "./images/greeting_S_03.png",
+            "text": "Did you call for me, the amazing Ess?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_S_04.wav",
+            "image": "./images/greeting_S_04.png",
+            "text": "You're no match for this cute face! \u266a",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_T_00.wav",
+            "image": "./images/greeting_T_00.png",
+            "text": "How's it going?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_T_01.wav",
+            "image": "./images/greeting_T_01.png",
+            "text": "I accept your challenge!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_T_02.wav",
+            "image": "./images/greeting_T_02.png",
+            "text": "It's launch time!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_T_03.wav",
+            "image": "./images/greeting_T_03.png",
+            "text": "Let's make this a fun battle!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_T_04.wav",
+            "image": "./images/greeting_T_04.png",
+            "text": "It's good to be the king!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_X_00.wav",
+            "image": "./images/greeting_X_00.png",
+            "text": "You ready yet?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_X_01.wav",
+            "image": "./images/greeting_X_01.png",
+            "text": "I can't wait.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_X_02.wav",
+            "image": "./images/greeting_X_02.png",
+            "text": "I've always wanted to face you.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_X_03.wav",
+            "image": "./images/greeting_X_03.png",
+            "text": "Sorry. I'm just that strong.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_X_04.wav",
+            "image": "./images/greeting_X_04.png",
+            "text": "I've waited so long...",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_Z_00.wav",
+            "image": "./images/greeting_Z_00.png",
+            "text": "Preparations complete.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_Z_01.wav",
+            "image": "./images/greeting_Z_01.png",
+            "text": "Enemy within range.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_Z_02.wav",
+            "image": "./images/greeting_Z_02.png",
+            "text": "Battle mode: ENGAGE",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_Z_03.wav",
+            "image": "./images/greeting_Z_03.png",
+            "text": "Are you prepared?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_Z_04.wav",
+            "image": "./images/greeting_Z_04.png",
+            "text": "Remember to stay hydrated.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RNG_00.wav",
+            "image": "./images/greeting_RNG_00.png",
+            "text": "Looking forward to this match!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RNG_01.wav",
+            "image": "./images/greeting_RNG_01.png",
+            "text": "Let's do this! Sound good?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RNG_02.wav",
+            "image": "./images/greeting_RNG_02.png",
+            "text": "I'm in this to win!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RNG_03.wav",
+            "image": "./images/greeting_RNG_03.png",
+            "text": "I'm a problem-solver.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RNG_04.wav",
+            "image": "./images/greeting_RNG_04.png",
+            "text": "Sine! Cosine! Tangent!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_KLU_00.wav",
+            "image": "./images/greeting_KLU_00.png",
+            "text": "If you insist on losing...",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_KLU_01.wav",
+            "image": "./images/greeting_KLU_01.png",
+            "text": "I won't go easy on you.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_KLU_02.wav",
+            "image": "./images/greeting_KLU_02.png",
+            "text": "You choose your opponents well.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_KLU_03.wav",
+            "image": "./images/greeting_KLU_03.png",
+            "text": "One day, I'll be stronger.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_KLU_04.wav",
+            "image": "./images/greeting_KLU_04.png",
+            "text": "*maniacal chuckle*",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ALL_00.wav",
+            "image": "./images/greeting_ALL_00.png",
+            "text": "Let's show each other some love!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ALL_01.wav",
+            "image": "./images/greeting_ALL_01.png",
+            "text": "Pleased to meet you!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ALL_02.wav",
+            "image": "./images/greeting_ALL_02.png",
+            "text": "Well, let's get started!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ALL_03.wav",
+            "image": "./images/greeting_ALL_03.png",
+            "text": "I can sense the love!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ALL_04.wav",
+            "image": "./images/greeting_ALL_04.png",
+            "text": "Battle with your heart! Battle with love!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SUK_00.wav",
+            "image": "./images/greeting_SUK_00.png",
+            "text": "Who's ready to get down!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SUK_01.wav",
+            "image": "./images/greeting_SUK_01.png",
+            "text": "Promise you won't fall in love with me.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SUK_02.wav",
+            "image": "./images/greeting_SUK_02.png",
+            "text": "Let's get groooovy!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SUK_03.wav",
+            "image": "./images/greeting_SUK_03.png",
+            "text": "LET'S DANCE!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SUK_04.wav",
+            "image": "./images/greeting_SUK_04.png",
+            "text": "Catch of the day!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_FEL_00.wav",
+            "image": "./images/greeting_FEL_00.png",
+            "text": "I foresee my victory...",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_FEL_01.wav",
+            "image": "./images/greeting_FEL_01.png",
+            "text": "So you want to fight me...?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_FEL_02.wav",
+            "image": "./images/greeting_FEL_02.png",
+            "text": "Let's go. Now.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_FEL_03.wav",
+            "image": "./images/greeting_FEL_03.png",
+            "text": "You like to tempt fate, huh?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_FEL_04.wav",
+            "image": "./images/greeting_FEL_04.png",
+            "text": "Hyaaaaaah~!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_AMI_00.wav",
+            "image": "./images/greeting_AMI_00.png",
+            "text": "Been waiting for this!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_AMI_01.wav",
+            "image": "./images/greeting_AMI_01.png",
+            "text": "I'm all ready to go!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_AMI_02.wav",
+            "image": "./images/greeting_AMI_02.png",
+            "text": "Let's start, alright?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_AMI_03.wav",
+            "image": "./images/greeting_AMI_03.png",
+            "text": "I'm so excited. This is awesome!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_AMI_04.wav",
+            "image": "./images/greeting_AMI_04.png",
+            "text": "I'm so pumped! 100% perfecto!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RAF_00.wav",
+            "image": "./images/greeting_RAF_00.png",
+            "text": "Let us begin!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RAF_01.wav",
+            "image": "./images/greeting_RAF_01.png",
+            "text": "And now you face... me!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RAF_02.wav",
+            "image": "./images/greeting_RAF_02.png",
+            "text": "I hope you're ready for me!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RAF_03.wav",
+            "image": "./images/greeting_RAF_03.png",
+            "text": "A proper lady trains hard.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RAF_04.wav",
+            "image": "./images/greeting_RAF_04.png",
+            "text": "*giggle*",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LEM_00.wav",
+            "image": "./images/greeting_LEM_00.png",
+            "text": "Hey there! Nice to meet you.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LEM_01.wav",
+            "image": "./images/greeting_LEM_01.png",
+            "text": "Let's do it.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LEM_02.wav",
+            "image": "./images/greeting_LEM_02.png",
+            "text": "Come n' get it.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LEM_03.wav",
+            "image": "./images/greeting_LEM_03.png",
+            "text": "Want somethin' sweet, eh?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LEM_04.wav",
+            "image": "./images/greeting_LEM_04.png",
+            "text": "Don't be afraid now...",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ECO_00.wav",
+            "image": "./images/greeting_ECO_00.png",
+            "text": "I can't wait!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ECO_01.wav",
+            "image": "./images/greeting_ECO_01.png",
+            "text": "Hahaha! Greetings!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ECO_02.wav",
+            "image": "./images/greeting_ECO_02.png",
+            "text": "Let's play!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ECO_03.wav",
+            "image": "./images/greeting_ECO_03.png",
+            "text": "The fun is about to start!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_ECO_04.wav",
+            "image": "./images/greeting_ECO_04.png",
+            "text": "So, what do you wanna do?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SHZ_00.wav",
+            "image": "./images/greeting_SHZ_00.png",
+            "text": "Time to fight!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SHZ_01.wav",
+            "image": "./images/greeting_SHZ_01.png",
+            "text": "I won't hold back!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SHZ_02.wav",
+            "image": "./images/greeting_SHZ_02.png",
+            "text": "Behold my dark magic!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SHZ_03.wav",
+            "image": "./images/greeting_SHZ_03.png",
+            "text": "I am NOT a creeper!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SHZ_04.wav",
+            "image": "./images/greeting_SHZ_04.png",
+            "text": "Feel the terror of my dark blade!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LJ_00.wav",
+            "image": "./images/greeting_LJ_00.png",
+            "text": "Nice to meet you!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LJ_01.wav",
+            "image": "./images/greeting_LJ_01.png",
+            "text": "YAY! Can we start now?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LJ_02.wav",
+            "image": "./images/greeting_LJ_02.png",
+            "text": "This is exciting!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LJ_03.wav",
+            "image": "./images/greeting_LJ_03.png",
+            "text": "Hey, do you like pranks...?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_LJ_04.wav",
+            "image": "./images/greeting_LJ_04.png",
+            "text": "Together, we're the best there is!",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SIG_00.wav",
+            "image": "./images/greeting_SIG_00.png",
+            "text": "Um... Huh?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SIG_01.wav",
+            "image": "./images/greeting_SIG_01.png",
+            "text": "Showtime.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SIG_02.wav",
+            "image": "./images/greeting_SIG_02.png",
+            "text": "We starting soon?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SIG_03.wav",
+            "image": "./images/greeting_SIG_03.png",
+            "text": "I guess we're battling now.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_SIG_04.wav",
+            "image": "./images/greeting_SIG_04.png",
+            "text": "Seen any rare bugs lately?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RUL_00.wav",
+            "image": "./images/greeting_RUL_00.png",
+            "text": "Are you all set?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RUL_01.wav",
+            "image": "./images/greeting_RUL_01.png",
+            "text": "I think this will be fun...",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RUL_02.wav",
+            "image": "./images/greeting_RUL_02.png",
+            "text": "Bring it on.",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RUL_03.wav",
+            "image": "./images/greeting_RUL_03.png",
+            "text": "Oh dear, you sure about this?",
+            "category": "Puyo Puyo Tetris 2"
+        },
+        {
+            "sound": "./sounds/greeting_RUL_04.wav",
+            "image": "./images/greeting_RUL_04.png",
+            "text": "The Dark Prince is all mine!",
+            "category": "Puyo Puyo Tetris 2"
+        }
+    ]
+}

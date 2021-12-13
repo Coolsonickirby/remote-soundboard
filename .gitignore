@@ -1,0 +1,5 @@
+PuyoPuyo
+node_modules
+crash.log
+*.py
+ppt2data.json
